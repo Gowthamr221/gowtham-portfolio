@@ -37,6 +37,9 @@ function HeroComponent() {
             </div>
           </div>
           <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+          <svg  style={{position:"absolute",width:"28rem"}} viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <path fill="#9333EA" d="M45.5,-25C59.1,-2.7,70.3,22.2,62.4,40.7C54.4,59.2,27.2,71.3,0.2,71.1C-26.7,71,-53.4,58.6,-67.8,36.4C-82.2,14.2,-84.3,-17.8,-70.9,-40C-57.6,-62.2,-28.8,-74.5,-6.4,-70.8C15.9,-67.1,31.9,-47.4,45.5,-25Z" transform="translate(100 100)" />
+</svg>
             <img
               class="object-cover object-center rounded"
               alt="hero"
