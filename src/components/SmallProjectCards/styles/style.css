@@ -1,0 +1,6 @@
+
+.animate-card:hover{
+  transform: scale(1.05);
+  transition-duration: 0.7s;
+  transition-timing-function: ease;
+}

@@ -10,9 +10,9 @@ function Projects() {
   return (
     <div>
         <NavBar/>
+        <SmallProjectCards/>
         <StatsDisplay/>
         <ProjectCards/>
-        <SmallProjectCards/>
         <Footer/>
     </div>
   )

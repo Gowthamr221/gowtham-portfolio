@@ -12,10 +12,10 @@ function SocialLink(props) {
             </h1>
             <a href={props.url} target="_blank">
             <button class="flex-shrink-0 text-white bg-purple-500 border-0 py-2   px-8 focus:outline-none hover:bg-purple-600 rounded text-lg mt-10 sm:mt-0">
-              Button  
+              Visit  
             </button>
             </a>
-            
+
           </div>
         </div>
       </section>

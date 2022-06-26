@@ -8,7 +8,6 @@ function AboutMe() {
     <div>
         <NavBar/>
         <AchievementsTimeline />
-        <Gallery/>
         <Footer/>
     </div>
   )

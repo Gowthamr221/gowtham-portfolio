@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./styles/style.css"
 function TechShowcase() {
   return (
     <section class="text-gray-400 bg-gray-900 body-font">
@@ -15,7 +16,7 @@ function TechShowcase() {
           </p>
         </div>
         <div class="flex flex-wrap -m-2">
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -28,7 +29,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -41,7 +42,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -54,7 +55,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -67,7 +68,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -80,7 +81,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -93,7 +94,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -108,7 +109,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -121,7 +122,7 @@ function TechShowcase() {
               </div>
             </div>
           </div>
-          <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
+          <div class="p-2 lg:w-1/3 md:w-1/2 animate-card w-full">
             <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg">
               <img
                 alt="team"
@@ -137,8 +138,8 @@ function TechShowcase() {
         </div>
         <div className="grid content-center py-20">
         <button class="inline-flex mx-auto text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">
-                <Link to="/contactme">
-                View Projects 
+                <Link to="/projects">
+                View Projects
                 </Link>
               </button>
           </div>

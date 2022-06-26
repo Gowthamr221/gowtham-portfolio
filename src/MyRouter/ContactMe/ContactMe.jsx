@@ -7,10 +7,13 @@ import NavBar from "../../components/NavBar/NavBar";
 function ContactMe() {
   return (
     <div>
-      <NavBar />
-      <SocialLink url="https://www.google.com" socialplatform="Google"/>
-      <SocialLink url="https://www.linkedin.com" socialplatform="Linkedin"/>
-      
+      <NavBar/>
+      <SocialLink url="https://www.linkedin.com/in/gowtham-reddy-3a5b2812a/" socialplatform="Linked In"/>
+      <SocialLink url="https://github.com/Gowthamr221" socialplatform="GitHub"/>
+      <SocialLink url="https://leetcode.com/sk5831/" socialplatform="LeetCode"/>
+      <SocialLink url="https://www.behance.net/gowthamr221" socialplatform="Behance"/>
+      <SocialLink url="https://gowthamr221.itch.io/" socialplatform="Itch.io"/>
+
       <ContactComponent />
       <Footer />
     </div>
