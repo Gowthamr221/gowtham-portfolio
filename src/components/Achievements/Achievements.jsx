@@ -15,7 +15,8 @@ function Achievements() {
                 <img
                   class="w-12 h-12"
                   viewBox="0 0 24 24"
-                  src="https://1000logos.net/wp-content/uploads/2017/05/emblem-Paypal.jpg"
+                  // src="https://1000logos.net/wp-content/uploads/2017/05/emblem-Paypal.jpg"
+                  alt="WIP"
                 ></img>
               </div>
               <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
@@ -25,10 +26,13 @@ function Achievements() {
                     className="font-sm font-extralight"
                     style={{ opacity: "60%" }}
                   >
-                    @Paypal
+                    {/* @Paypal */} WIP
                   </h2>
                 </h2>
-                <p class="leading-relaxed">Incoming SWE Intern at paypal<pre>            {/*intentional blankspace to avoid distorition*/ }                                    </pre></p>
+                <p class="leading-relaxed">
+                  Incoming SWE Intern at ...
+                   {/* paypal */}
+                   <pre>            {/*intentional blankspace to avoid distorition*/ }                                    </pre></p>
               </div>
             </div>
           </div>
