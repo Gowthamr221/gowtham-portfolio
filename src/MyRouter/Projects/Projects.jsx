@@ -13,6 +13,7 @@ function Projects() {
         <SmallProjectCards/>
         <StatsDisplay/>
         <ProjectCards/>
+
         <Footer/>
     </div>
   )

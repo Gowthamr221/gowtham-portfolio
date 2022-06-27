@@ -1,5 +1,6 @@
 import React from 'react'
 import txtutl from "./images/txtutl.png"
+import "./styles/style.css"
 function ProjectCards() {
   return (
     <div>
@@ -7,7 +8,7 @@ function ProjectCards() {
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-wrap -m-4">
       <div class="p-4 md:w-1/3">
-        <div class="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
+        <div class="h-full border-2 border-gray-800 rounded-lg overflow-hidden animate-card">
           <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://media.geeksforgeeks.org/wp-content/uploads/20211008223650/WhatsAppImage20211008at103524PM.jpeg" alt="blog"></img>
           <div class="p-6">
             <h2 class="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">Mobile App</h2>
@@ -26,7 +27,7 @@ function ProjectCards() {
         </div>
       </div>
       <div class="p-4 md:w-1/3">
-        <div class="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
+        <div class="h-full border-2 border-gray-800 rounded-lg overflow-hidden animate-card">
           <img class="lg:h-48 md:h-36 w-full object-cover object-center" src={txtutl} alt="blog"></img>
           <div class="p-6">
             <h2 class="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">Web Dev</h2>
@@ -46,7 +47,7 @@ function ProjectCards() {
         </div>
       </div>
       <div class="p-4 md:w-1/3">
-        <div class="h-full border-2 border-gray-800 rounded-lg overflow-hidden">
+        <div class="h-full border-2 border-gray-800 rounded-lg overflow-hidden animate-card">
           <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://camo.githubusercontent.com/4dc73f98ac80c69db50abd4ddac5a77607d8f8529f18b50db6585cec703ed5e9/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31456e4d44564b69552d7670722d6a434b5f3469503142664b666752532d702d55" alt="blog"></img>
           <div class="p-6">
             <h2 class="tracking-widest text-xs title-font font-medium text-gray-500 mb-1">Game Dev</h2>

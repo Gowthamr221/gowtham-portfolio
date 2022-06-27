@@ -1,6 +1,6 @@
 import React from "react";
 
-function AchievementsTimeline() {
+function Achievements() {
   return (
     <div>
       <section class="text-gray-400 mx-auto bg-gray-900 body-font">
@@ -131,4 +131,4 @@ function AchievementsTimeline() {
   );
 }
 
-export default AchievementsTimeline;
+export default Achievements;

@@ -11,6 +11,7 @@ function ContactMe() {
       <SocialLink url="https://www.linkedin.com/in/gowtham-reddy-3a5b2812a/" socialplatform="Linked In"/>
       <SocialLink url="https://github.com/Gowthamr221" socialplatform="GitHub"/>
       <SocialLink url="https://leetcode.com/sk5831/" socialplatform="LeetCode"/>
+      <SocialLink url="https://leetcode.com/sk5831/" socialplatform="codechef"/>
       <SocialLink url="https://www.behance.net/gowthamr221" socialplatform="Behance"/>
       <SocialLink url="https://gowthamr221.itch.io/" socialplatform="Itch.io"/>
 

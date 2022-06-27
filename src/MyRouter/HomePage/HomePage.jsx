@@ -1,4 +1,5 @@
 import React from "react";
+import Achievements from "../../components/Achievements/Achievements";
 import Footer from "../../components/Footer/Footer";
 import HeroComponent from "../../components/HeroComponent/HeroComponent";
 import NavBar from "../../components/NavBar/NavBar";
@@ -11,6 +12,7 @@ function HomePage() {
     <div>
       <NavBar />
       <HeroComponent />
+      <Achievements/>
       <TechShowcase />
       <Testimonials/>
       <Quote/>
