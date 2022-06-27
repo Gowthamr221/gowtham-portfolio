@@ -89,8 +89,7 @@ function SmallProjectCards() {
                   Events.io
                 </h2>
                 <p class="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waistcoat.
-                  Distillery hexagon disrupt edison bulbche.
+                  Event Hosting Site where users can access available events and admins can host event details.
                 </p>
               </div>
               </a>
