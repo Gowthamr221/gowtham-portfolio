@@ -14,7 +14,7 @@ function NavBar() {
     </nav>
     <a class="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-white lg:items-center lg:justify-center mb-4 md:mb-0">
       
-      <span class="ml-3 text-xl xl:block lg:hidden">Gowtham's Porfolio</span>
+      <span class="ml-3 text-xl xl:block lg:hidden">Gowtham's Portfolio</span>
     </a>
     <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
       <button class="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
