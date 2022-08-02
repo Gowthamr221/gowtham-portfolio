@@ -26,12 +26,12 @@ function Achievements() {
                     className="font-sm font-extralight"
                     style={{ opacity: "60%" }}
                   >
-                    {/* @Paypal */} WIP
+                    @Paypal 
                   </h2>
                 </h2>
                 <p class="leading-relaxed">
-                  Incoming SWE Intern at ...
-                   {/* paypal */}
+                  Incoming Intern @Paypal 
+                   
                    <pre>            {/*intentional blankspace to avoid distorition*/ }                                    </pre></p>
               </div>
             </div>
