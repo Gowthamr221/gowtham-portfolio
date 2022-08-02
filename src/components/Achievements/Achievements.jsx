@@ -30,7 +30,7 @@ function Achievements() {
                   </h2>
                 </h2>
                 <p class="leading-relaxed">
-                  Incoming Intern @Paypal 
+                  Incoming Intern at paypal Banglore. 
                    
                    <pre>            {/*intentional blankspace to avoid distorition*/ }                                    </pre></p>
               </div>
