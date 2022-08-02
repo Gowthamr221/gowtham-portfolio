@@ -15,7 +15,7 @@ function Achievements() {
                 <img
                   class="w-12 h-12"
                   viewBox="0 0 24 24"
-                  // src="https://1000logos.net/wp-content/uploads/2017/05/emblem-Paypal.jpg"
+                   src="https://1000logos.net/wp-content/uploads/2017/05/emblem-Paypal.jpg"
                   alt="WIP"
                 ></img>
               </div>
