@@ -14,7 +14,7 @@ function Testimonials() {
           </svg>
           <p class="leading-relaxed mb-6">Gowtham has very keen sense of good user interface design and how to create scalable userinterface as well as backend development.He is a good team player in hackathons and team projects.</p>
           <a class="inline-flex items-center">
-           <img alt="testimonial" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"></img>
+           <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/D4D03AQEoZM2Osd3fAQ/profile-displayphoto-shrink_800_800/0/1666027100245?e=1673481600&v=beta&t=G5vJJDGwxLVxYbSMKQuaFR9A__4WpQUjBzs12DpJsX8" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"></img>
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-white">Jayesh jayanandan</span>
               <span class="text-gray-500 text-sm">Full Stack Web Developer @AB_inBev</span>
@@ -29,7 +29,7 @@ function Testimonials() {
           </svg>
           <p class="leading-relaxed mb-6">Gowtham is self starter, good at comparing resources and choosing whats right fit for the scenario.He actively took part in  Product prototyping during his internship period.He is a valubale asset for any company   </p>
           <a class="inline-flex items-center">
-            <img alt="testimonial" src="https://media-exp1.licdn.com/dms/image/D4D03AQEoZM2Osd3fAQ/profile-displayphoto-shrink_800_800/0/1666027100245?e=1673481600&v=beta&t=G5vJJDGwxLVxYbSMKQuaFR9A__4WpQUjBzs12DpJsX8" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"></img>
+            <img alt="testimonial" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fperson-icon&psig=AOvVaw22GavmnXho4BOwPVdovysc&ust=1668014256363000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDGt7uLn_sCFQAAAAAdAAAAABAE" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"></img>
             <span class="flex-grow flex flex-col pl-4">
               <span class="title-font font-medium text-white">Ram K</span>
               <span class="text-gray-500 text-sm">@Creamzo</span>
