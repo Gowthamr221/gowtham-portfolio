@@ -21,7 +21,7 @@ function Achievements() {
               </div>
               <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 class="font-medium title-font text-white mb-1 text-xl">
-                  SWE Intern{" "}
+                  Risk Strategy Analyst{" "}
                   <h2
                     className="font-sm font-extralight"
                     style={{ opacity: "60%" }}
@@ -30,7 +30,7 @@ function Achievements() {
                   </h2>
                 </h2>
                 <p class="leading-relaxed">
-                  Incoming Intern at paypal Banglore. 
+                 Worked as Risk Strategy intern at Paypal Banglore 
                    
                    <pre>            {/*intentional blankspace to avoid distorition*/ }                                    </pre></p>
               </div>
